@@ -1,5 +1,5 @@
 browser hide all
-browser pack knownGene
+browser dense CCDS
 track name="r2" description="r2"
 #chrom	chromStart	chromEnd
 chr1	2156302	2156422	chr1:2156361-2156362
