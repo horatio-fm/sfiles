@@ -1,7 +1,3 @@
-browser hide all
-browser UCSC Genes=pack
-browser NCBI RefSeq=pack
-browser CCDS=pack
 chr2    48023032    48023202
 chr6    157099063   157100605
 chr3    12641650    12641778
