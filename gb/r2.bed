@@ -1,7 +1,5 @@
 browser hide all
-browser UCSC Genes=dense
-browser NCBI RefSeq=dense
-browser CCDS=dense
+browser pack knownGene
 track name="r2" description="r2"
 #chrom	chromStart	chromEnd
 chr1	2156302	2156422	chr1:2156361-2156362
