@@ -1,4 +1,3 @@
-browser hide all
 browser UCSC Genes=pack
 browser NCBI RefSeq=pack
 browser CCDS=pack
