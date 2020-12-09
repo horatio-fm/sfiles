@@ -1,6 +1,8 @@
 browser hide all
-browser dense CCDS
-track name="r2" description="r2"
+browser dense refGene
+browser dense knownGene
+browser dense ccdsGene
+track name="r3" description="r3"
 #chrom	chromStart	chromEnd
 chr1	2156302	2156422	chr1:2156361-2156362
 chr1	2488078	2488198	chr1:2488073-2488202
